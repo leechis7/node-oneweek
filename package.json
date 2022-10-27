@@ -1,0 +1,21 @@
+{
+    "name": "node-oneweek",
+    "version": "1.0.0",
+    "description": "This package is for learning node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leechis7/node-oneweek.git"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "mysql",
+        "mongodb"
+    ],
+    "author": "Chaekang Lee",
+    "license": "ISC"
+}
